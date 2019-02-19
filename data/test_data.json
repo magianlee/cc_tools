@@ -2,7 +2,7 @@
   {
     "platform": {
       "name": "Atari Lynx",
-      "launchyear": 1989
+      "launch_year": 1989
     },
     "title": "Chip's Challenge",
     "year": 1989
@@ -10,7 +10,7 @@
   {
     "platform": {
       "name": "Steam",
-      "launchyear": 2003
+      "launch_year": 2003
     },
     "title": "Chip's Challenge 2",
     "year": 1989
@@ -18,7 +18,7 @@
   {
     "platform": {
       "name": "Steam",
-      "launchyear": 2003
+      "launch_year": 2003
     },
     "title": "Slay the Spire",
     "year": 2019
