@@ -68,5 +68,5 @@ level_set = make_datafile_from_json(data)
 cc_dat_utils.write_cc_data_to_dat(level_set, save_file_path)
 
 # test
-read_data = make_cc_data_from_dat(save_file_path)
-print(read_data)
+# read_data = make_cc_data_from_dat(save_file_path)
+# print(read_data)

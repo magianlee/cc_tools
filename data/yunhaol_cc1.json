@@ -114,8 +114,7 @@
         },
         {
           "type_val": 10,
-          "monsters":[[8,10],
-                      [9,9]]
+          "monsters":[[5,5]]
         }
       ]
     },
@@ -229,7 +228,7 @@
         },
         {
           "type_val": 7,
-          "hint": "There's poorly things to hint for this poor level"
+          "hint": "You know this is just a copied level"
         },
         {
           "type_val": 10,
