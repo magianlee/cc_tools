@@ -56,8 +56,8 @@ def make_datafile_from_json(json_data):
 
 
 # define load and save file path
-load_file_path = "data/yunhaol_cc1.json"
-save_file_path = "data/yunhaol_cc1.dat"
+load_file_path = "data/yunhaol_cc_level_data.json"
+save_file_path = "data/yunhaol_cc_level_data.dat"
 with open(load_file_path, "r") as reader:
     data = json.load(reader)
 
